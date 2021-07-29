@@ -1,27 +1,27 @@
 body {
-    background-color: bisque;
+    background-color:slategray;
 }
 
 header {
-    background-color: rgb(6, 6, 6);
-    color: rgb(206, 38, 38);
-    text-align: center;
+    background-color:darkgreen;
+    color:midnightblue;
+    text-align:center;
 }
 
 li {
-    display: inline;
-    border: solid red 1px;
-    background-color: darkkhaki;
+    display:contents;
+    border:black 20px;
+    background-color:midnightblue;
     padding: 10px;
-    margin: 150px;
+    margin: 50px;
 }
 
-#hero {
-    width: 700px;
+#GTR {
+    width: 300px;
 }
 
-.recruit {
-    width: 400px;
+.Porsche911GT3 {
+    width: 300px;
 }
 
 .blue {
@@ -29,7 +29,7 @@ li {
 }
 
 section {
-    border: solid red 2px;
+    border:teal 2px;
     padding: 5px;
     margin: 5px;
     text-align: center;
